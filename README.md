@@ -12,8 +12,9 @@ PDF Export filters for mac Preview
 ## Manual installation
 
 - Download the filters
-- Unzip the downloaded file and copy the filters to `/Library/PDF Services/`
-	or, if you are running macos 10.6.x or earlier: `/Library/Filters/`
+- Unzip the downloaded file and copy the filters to:
+    - macos 10.7 and newer: `/Library/PDF Services/`
+    - macos 10.6 and older: `/Library/Filters/`
 
 
 ## Usage
