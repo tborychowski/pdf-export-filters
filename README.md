@@ -27,7 +27,3 @@ PDF Export filters for mac Preview
 ## Source
 
 - https://discussions.apple.com/thread/4975061?tstart=0
-
-
-## License
-*MIT*
